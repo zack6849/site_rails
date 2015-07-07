@@ -1,0 +1,22 @@
+<div class="container-fluid" id="main">
+    <div id="navbar">
+        <nav class="navbar navbar-default">
+            <div class="container">
+                <%= render 'shared/header' %>
+                <div class="container-fluid" id="header">
+                    <h1>Hello There.</h1>
+
+                    <p>I'm zack6849. <br>i'm a Java developer and occasionally a web developer.<br>
+                        <i>Welcome to my website.</i>
+                    </p>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div class="container" id="content">
+        <% @posts.each do |post| %>
+            <%= render :partial => 'shared/post', :locals => {:post => post} %>
+        <% end %>
+    </div>
+</div>
+

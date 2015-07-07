@@ -1,0 +1,45 @@
+<style>
+    input[type~="submit"] {
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+    hr{
+        border-color: darkgray;
+        margin-top: 0;
+    }
+
+</style>
+<div class="container-fluid" id="main">
+    <div id="navbar">
+        <nav class="navbar navbar-default">
+            <div class="container">
+                <%= render 'shared/header' %>
+            </div>
+        </nav>
+    </div>
+    <div class="container" id="content">
+        <div class="row">
+            <div class="col-sm-4 col-sm-offset-4">
+                <div class="well">
+                    <div class="form-group">
+                        <% if @error %>
+                            <div class="alert alert-danger alert-dismissable" role="alert">
+                                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span></button>
+                                <strong>Your filetype isn't on the whitelist!</strong>
+                            </div>
+                        <% end %>
+                        <h1>Upload</h1>
+                        <hr>
+                        <%= form_tag('/uploader/', multipart: true) do %>
+                            <%= file_field_tag :upload %>
+                            <%= submit_tag 'Upload', :class => "form-control btn btn-success"%>
+                        <% end %>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+

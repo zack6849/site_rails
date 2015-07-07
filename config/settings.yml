@@ -1,0 +1,10 @@
+rcon:
+  host: 'localhost'
+  port: '27015'
+  password: 'notarealpassword'
+post:
+  date_format: '%A, %b %e  %Y %r'
+uploads:
+  whitelist: 'png jpg jpeg gif bmp mov mp4 avi mkv mp3 wav m4a webm txt zip tar gz 7z rar jar class java cpp py bat apk cfg css dat log lua erb'
+  random_name_length: 10
+  directory: 'public/uploads/'

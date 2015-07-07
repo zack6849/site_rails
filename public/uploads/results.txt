@@ -1,0 +1,560 @@
+/home/zack6849/.cache/icedtea-web/cache/0/http/world35.runescape.com/gamepackcSI9DI46XBJ6bV2r8S6rXUyglpwv9HSY_6227601.jar
+/home/zack6849/.cache/icedtea-web/cache/0/http/world35.runescape.com/gamepackcSI9DI46XBJ6bV2r8S6rXUyglpwv9HSY_6227601.jar.info
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.10/f11190272.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.10/f11546368.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.102/f54942544.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.11/f11560960.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.11/f11563008.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.11/f11567360.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.11/f11569152.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.11/f11570944.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.11/f11571200.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.11/f11573760.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.11/f11575296.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.11/f11576832.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.11/f11599872.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59361440.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59377584.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59377744.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59378576.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59379656.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59379680.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59380160.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59380192.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59380328.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59385624.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59393904.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59399288.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59399296.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59400632.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59407144.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59407384.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59408440.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59408648.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59413872.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59414056.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59414240.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59414440.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59414656.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59414848.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59415040.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59415384.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59415616.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59415792.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59416272.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59416288.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59416488.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.117/f59416696.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.13/f11733504.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.139/f71778424.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.139/f71778536.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.139/f71778736.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.139/f71778864.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.139/f71778976.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.139/f71779056.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.139/f71779176.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.139/f71779632.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.139/f71781024.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.139/f71781792.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.139/f71781912.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.139/f71782000.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.139/f71782024.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.139/f71782200.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.3/f2947072.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.7/f11042816.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.7/f11127040.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.7/f11127296.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.7/f11135744.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.7/f11143680.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.7/f11145216.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.7/f11147776.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.9/f11157504.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.9/f11159552.jar
+/home/zack6849/.local/share/Trash/expunged/818521992/recup_dir.9/f11177984.jar
+/home/zack6849/.minecraft/launcher.jar
+/home/zack6849/.minecraft/versions/1.8.1/1.8.1.jar
+/home/zack6849/.minecraft/versions/1.8.2/1.8.2.jar
+/home/zack6849/.minecraft/versions/1.8.3/1.8.3.jar
+/home/zack6849/.mozilla/firefox/bznn8kd7.default/extensions/support@lastpass.com/chrome/lastpass.jar
+/home/zack6849/.mozilla/firefox/jzd9xbdd.default/extensions/support@lastpass.com/chrome/lastpass.jar
+/home/zack6849/.mozilla/firefox/mmorm5b9.dev-edition-default/extensions/support@lastpass.com/chrome/lastpass.jar
+/home/zack6849/.mozilla/firefox/uhdmwrq1.default/extensions/support@lastpass.com/chrome/lastpass.jar
+/home/zack6849/Downloads/Minecraft.jar
+/home/zack6849/Dropbox/ThreadDownloaderGUI.jar
+/home/zack6849/Dropbox/threaddownloader-cli.jar
+/home/zack6849/Dropbox/IdeaProjects/SuperLogger/target/SuperLogger-v1.4.9.jar
+/home/zack6849/Dropbox/IdeaProjects/SuperLogger/target/SuperLogger-v1.6.jar
+/home/zack6849/Dropbox/IdeaProjects/SuperLogger/target/original-SuperLogger-v1.6.jar
+/home/zack6849/Dropbox/IdeaProjects/SuperLogger.old/target/SuperLogger-v1.4.9.jar
+/home/zack6849/Dropbox/IdeaProjects/alphabot/target/AlphabotV2.jar
+/home/zack6849/Dropbox/IdeaProjects/alphabot/target/original-AlphabotV2.jar
+/home/zack6849/Dropbox/IdeaProjects/cookiebot/target/CookieBot.jar
+/home/zack6849/Dropbox/IdeaProjects/cookiebot/target/original-CookieBot.jar
+/home/zack6849/Dropbox/IdeaProjects/old/IRC-BRIDGEBOT/target/IRC-Bridgebot.jar
+/home/zack6849/Dropbox/IdeaProjects/old/IRC-BRIDGEBOT/target/original-IRC-Bridgebot.jar
+/home/zack6849/Dropbox/IdeaProjects/old/ROOT/out/artifacts/ROOT_war_exploded/WEB-INF/jtidy-r8-SNAPSHOT.jar
+/home/zack6849/Dropbox/IdeaProjects/old/ROOT/web/WEB-INF/jtidy-r8-SNAPSHOT.jar
+/home/zack6849/Dropbox/IdeaProjects/old/ThreadDownloaderGUI/target/ThreadDownloaderGUI.jar
+/home/zack6849/Dropbox/IdeaProjects/old/ThreadDownloaderGUI/target/original-ThreadDownloaderGUI.jar
+/home/zack6849/Dropbox/IdeaProjects/old/kicktemplate/target/kicktemplate-1.0-SNAPSHOT.jar
+/home/zack6849/Dropbox/IdeaProjects/old/notoriousdev-spigot/NDHub/target/original-NDHub.jar
+/home/zack6849/Dropbox/IdeaProjects/old/skypedumper/target/original-skypelogdumper-1.0-SNAPSHOT.jar
+/home/zack6849/Dropbox/IdeaProjects/old/skypedumper/target/skypelogdumper-1.0-SNAPSHOT.jar
+/home/zack6849/Dropbox/IdeaProjects/old/twitterbot/target/TwitterBot-1.0-SNAPSHOT.jar
+/home/zack6849/Dropbox/IdeaProjects/old/twitterbot/target/original-TwitterBot-1.0-SNAPSHOT.jar
+/home/zack6849/Dropbox/code/ThreadDownloaderProject/ThreadDownloader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar
+/home/zack6849/Dropbox/code/ThreadDownloaderProject/ThreadDownloader/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar
+/home/zack6849/Dropbox/matt/mcp/jars/minecraft_server.jar
+/home/zack6849/Dropbox/matt/mcp/jars/minecraft_server.jar.backup
+/home/zack6849/Dropbox/matt/mcp/jars/bin/jinput.jar
+/home/zack6849/Dropbox/matt/mcp/jars/bin/lwjgl.jar
+/home/zack6849/Dropbox/matt/mcp/jars/bin/lwjgl_util.jar
+/home/zack6849/Dropbox/matt/mcp/jars/bin/minecraft.jar
+/home/zack6849/Dropbox/matt/mcp/jars/bin/minecraft.jar.backup
+/home/zack6849/Dropbox/matt/mcp/jars/bin/natives/linux_natives.jar
+/home/zack6849/Dropbox/matt/mcp/jars/bin/natives/macosx_natives.jar
+/home/zack6849/Dropbox/matt/mcp/jars/bin/natives/windows_natives.jar
+/home/zack6849/Dropbox/matt/mcp/runtime/bin/fernflower.jar
+/home/zack6849/Dropbox/matt/mcp/runtime/bin/mcinjector.jar
+/home/zack6849/Dropbox/matt/mcp/runtime/bin/retroguard.jar
+/home/zack6849/Dropbox/matt/mcp/temp/minecraft_exc.jar
+/home/zack6849/Dropbox/matt/mcp/temp/minecraft_rg.jar
+/home/zack6849/Dropbox/public/AeroTechPlugin-1.0-SNAPSHOT.jar
+/home/zack6849/Dropbox/public/Alphabot.jar
+/home/zack6849/Dropbox/public/CookieBot-1.0.jar
+/home/zack6849/Dropbox/public/SuperLogger-v1.4.9.jar
+/home/zack6849/Dropbox/public/SuperLogger.jar
+/home/zack6849/Dropbox/public/ThreadDownloader-1.0-SNAPSHOT.jar
+/home/zack6849/Dropbox/public/breaddownloader-cli.jar
+/home/zack6849/Dropbox/public/bsh-2.0b4.jar
+/home/zack6849/Dropbox/public/cleardrop.jar
+/home/zack6849/Dropbox/public/test1.jar
+/home/zack6849/Dropbox/public/testing.jar
+/home/zack6849/Dropbox/public/plugins/Cleardrop9-23-2012.jar
+/home/zack6849/Dropbox/public/plugins/CustomJoins-1.0-SNAPSHOT.jar
+/home/zack6849/Dropbox/public/plugins/EssentialsGroupBridge.jar
+/home/zack6849/Dropbox/public/plugins/EssentialsGroupManager.jar
+/home/zack6849/Dropbox/public/plugins/GriefSheild.jar
+/home/zack6849/Dropbox/public/plugins/MaintenanceMode - Copy.jar
+/home/zack6849/Dropbox/public/plugins/MaintenanceMode.jar
+/home/zack6849/Dropbox/public/plugins/TyChatExtras.jar
+/home/zack6849/Dropbox/public/plugins/ctf.jar
+/home/zack6849/Dropbox/public/plugins/nocaps.jar
+/home/zack6849/Dropbox/public/plugins/opmeh.jar
+/home/zack6849/Dropbox/public/plugins/tychatsg.jar
+/home/zack6849/Dropbox/public/plugins/worldgreeter.jar
+/home/zack6849/Dropbox/public/random shit/SuperLogger.jar
+/home/zack6849/Dropbox/public/random shit/alphabot.jar
+/home/zack6849/bot/TS3MusicBot/system/TS3MusicBot.jar
+/home/zack6849/bot/TS3MusicBot/system/TS3MusicBotLauncher.jar
+/home/zack6849/tomcat/bin/bootstrap.jar
+/home/zack6849/tomcat/bin/commons-daemon.jar
+/home/zack6849/tomcat/endorsed/annotation-api.jar
+/home/zack6849/tomcat/endorsed/jaxb-api.jar
+/home/zack6849/windows/Apache TomEE/bin/bootstrap.jar
+/home/zack6849/windows/Apache TomEE/bin/commons-daemon.jar
+/home/zack6849/windows/Apache TomEE/endorsed/annotation-api.jar
+/home/zack6849/windows/Apache TomEE/endorsed/jaxb-api.jar
+/home/zack6849/windows/Backups/programming/android workspace/workspace/ThreadDownloader1.1/bin/dexedLibs/android-support-v4-75a25209b7af800f9b7a39715bfe3590.jar
+/home/zack6849/windows/Backups/programming/android workspace/workspace/ThreadDownloader1.1/bin/dexedLibs/android-support-v4-e94ece3b1c6a224c34b3b0a7dc258784.jar
+/home/zack6849/windows/Backups/programming/android workspace/workspace/ThreadDownloader1.1/bin/dexedLibs/jsoup-1.7.2-6e9c2797e557b9a593f4109bc9e8af1c.jar
+/home/zack6849/windows/Backups/programming/android workspace/workspace/ThreadDownloader1.1/bin/dexedLibs/jsoup-1.7.2-7167a4a93e76730e6bf62a5775ce6ef1.jar
+/home/zack6849/windows/Backups/programming/api/commons-codec-1.9.jar
+/home/zack6849/windows/Backups/programming/api/commons-fileupload-1.3.jar
+/home/zack6849/windows/Backups/programming/api/commons-io-2.4.jar
+/home/zack6849/windows/Backups/programming/api/commons-lang3-3.2.jar
+/home/zack6849/windows/Backups/programming/api/guava-15.0.jar
+/home/zack6849/windows/Backups/programming/api/jsoup-1.7.2.jar
+/home/zack6849/windows/Backups/programming/api/pircbotx-2.0.1.jar
+/home/zack6849/windows/Backups/programming/api/slf4j-api-1.7.5.jar
+/home/zack6849/windows/Backups/programming/api/slf4j-simple-1.7.5.jar
+/home/zack6849/windows/Backups/programming/api/JSPP/commons-compress-1.5.jar
+/home/zack6849/windows/Backups/programming/api/JSPP/commons-fileupload-1.3.jar
+/home/zack6849/windows/Backups/programming/api/JSPP/commons-io-2.4.jar
+/home/zack6849/windows/Backups/programming/api/JSPP/commons-lang-2.6.jar
+/home/zack6849/windows/Backups/programming/api/JSPP/commons-lang3-3.1.jar
+/home/zack6849/windows/Backups/programming/api/JSPP/guava-14.0.1.jar
+/home/zack6849/windows/Backups/programming/api/JSPP/hamcrest-core-1.3.jar
+/home/zack6849/windows/Backups/programming/api/JSPP/httpclient-4.2.5.jar
+/home/zack6849/windows/Backups/programming/api/JSPP/json-20090211.jar
+/home/zack6849/windows/Backups/programming/api/JSPP/junit-4.11.jar
+/home/zack6849/windows/Backups/programming/api/JSPP/mockito-all-1.9.5.jar
+/home/zack6849/windows/Backups/programming/api/JSPP/steam-condenser-1.3.5.jar
+/home/zack6849/windows/Backups/programming/api/apache commons/1.1.1/commons-logging-1.1.1.jar
+/home/zack6849/windows/Backups/programming/api/apache commons/1.1.1/commons-logging-adapters-1.1.1.jar
+/home/zack6849/windows/Backups/programming/api/apache commons/1.1.1/commons-logging-api-1.1.1.jar
+/home/zack6849/windows/Backups/programming/api/apache commons/1.6/commons-codec-1.6.jar
+/home/zack6849/windows/Backups/programming/api/apache commons/1.9/commons-configuration-1.9-javadoc.jar
+/home/zack6849/windows/Backups/programming/api/apache commons/1.9/commons-configuration-1.9-sources.jar
+/home/zack6849/windows/Backups/programming/api/apache commons/1.9/commons-configuration-1.9-test-sources.jar
+/home/zack6849/windows/Backups/programming/api/apache commons/1.9/commons-configuration-1.9-tests.jar
+/home/zack6849/windows/Backups/programming/api/apache commons/1.9/commons-configuration-1.9.jar
+/home/zack6849/windows/Backups/programming/api/apache commons/2.6/commons-lang-2.6-javadoc.jar
+/home/zack6849/windows/Backups/programming/api/apache commons/2.6/commons-lang-2.6-sources.jar
+/home/zack6849/windows/Backups/programming/api/apache commons/2.6/commons-lang-2.6.jar
+/home/zack6849/windows/Backups/programming/api/apache commons/3.1/commons-lang3-3.1.jar
+/home/zack6849/windows/Backups/programming/api/apache commons/3.2.1/commons-collections-3.2.1.jar
+/home/zack6849/windows/Backups/programming/api/apache commons/commons-io/commons-io-2.4-javadoc.jar
+/home/zack6849/windows/Backups/programming/api/apache commons/commons-io/commons-io-2.4-sources.jar
+/home/zack6849/windows/Backups/programming/api/apache commons/commons-io/commons-io-2.4.jar
+/home/zack6849/windows/Backups/programming/api/bouncy castle/bcprov-jdk15on-147.jar
+/home/zack6849/windows/Backups/programming/api/bukkit/PermissionsEx.jar
+/home/zack6849/windows/Backups/programming/api/bukkit/SpoutPlugin.jar
+/home/zack6849/windows/Backups/programming/api/bukkit/SpoutcraftAPI.jar
+/home/zack6849/windows/Backups/programming/api/bukkit/bukkit-1.2.5-R0.2-20120404.022946-2.jar
+/home/zack6849/windows/Backups/programming/api/bukkit/bukkit-1.2.5-R3.1-20120528.025351-4.jar
+/home/zack6849/windows/Backups/programming/api/bukkit/bukkit-1.2.5-R4.0.jar
+/home/zack6849/windows/Backups/programming/api/bukkit/bukkit-1.3.1-R1.0.jar
+/home/zack6849/windows/Backups/programming/api/bukkit/bukkit-1.3.1-R2.0.jar
+/home/zack6849/windows/Backups/programming/api/bukkit/bukkit-1.4.6-R0.1.jar
+/home/zack6849/windows/Backups/programming/api/bukkit/bukkit-1.5.1-R0.1.jar
+/home/zack6849/windows/Backups/programming/api/bukkit/craftbukkit-1.2.5-R1.0.jar
+/home/zack6849/windows/Backups/programming/api/bukkit/craftbukkit-1.2.5-R4.0.jar
+/home/zack6849/windows/Backups/programming/api/google/gdata-youtube-2.0.jar
+/home/zack6849/windows/Backups/programming/api/google/google-ajax-apis.jar
+/home/zack6849/windows/Backups/programming/api/google/gson-1.4.jar
+/home/zack6849/windows/Backups/programming/api/google/gson-2.2.4-javadoc.jar
+/home/zack6849/windows/Backups/programming/api/google/gson-2.2.4-sources.jar
+/home/zack6849/windows/Backups/programming/api/google/jackson-annotations-2.0.0.jar
+/home/zack6849/windows/Backups/programming/api/google/jackson-core-2.0.0.jar
+/home/zack6849/windows/Backups/programming/api/google/jackson-databind-2.0.0.jar
+/home/zack6849/windows/Backups/programming/api/irc/pircbotx-1.7.jar
+/home/zack6849/windows/Backups/programming/api/irc/pircbotx-1.8.jar
+/home/zack6849/windows/Backups/programming/api/lwjgl/lwjgl.jar
+/home/zack6849/windows/Backups/programming/api/lwjgl/lwjgl_util.jar
+/home/zack6849/windows/Backups/programming/api/lwjgl/slick-util.jar
+/home/zack6849/windows/Backups/programming/api/misc/SQLibrary.jar
+/home/zack6849/windows/Backups/programming/api/misc/bsh-core-2.0b4.jar
+/home/zack6849/windows/Backups/programming/api/misc/fluent-hc-4.2.2.jar
+/home/zack6849/windows/Backups/programming/api/misc/geoip-1.2.4.jar
+/home/zack6849/windows/Backups/programming/api/misc/mysql-connector-java-5.1.22-bin.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/Alphabotv2-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/home/irc/esper/alphabot.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/home/irc/idlebot/Alphabotv2-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/home/irc/seion/alphabot.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/site/uploads/Alphabotv2-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/site/uploads/BukkitSandbox.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/site/uploads/IRC-Bridgebot-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/site/uploads/threaddownloader.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/tomcat/webapps/ROOT/uploads/IRC-Bridgebot-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/tomcat/webapps/ROOT/uploads/old/AeroTechPlugin-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/tomcat/webapps/ROOT/uploads/old/Alphabot-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/tomcat/webapps/ROOT/uploads/old/EnderDragon-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/tomcat/webapps/ROOT/uploads/old/HeresUrPlugin-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/tomcat/webapps/ROOT/uploads/old/IRC-Bridgebot-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/tomcat/webapps/ROOT/uploads/old/Learnin2database-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/tomcat/webapps/ROOT/uploads/old/SkinScraper-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/tomcat/webapps/ROOT/uploads/old/Sockets1.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/tomcat/webapps/ROOT/uploads/old/ThreadDownloader-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/tomcat/webapps/ROOT/uploads/old/WhitelistMessage-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/tomcat/webapps/ROOT/uploads/old/ahuehuehuehuehue.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/tomcat/webapps/ROOT/uploads/old/jinput.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/tomcat/webapps/ROOT/uploads/old/lwjgl.jar
+/home/zack6849/windows/Backups/wolverine/backups/backup/tomcat/webapps/ROOT/uploads/old/lwjgl_util.jar
+/home/zack6849/windows/Backups/wolverine/site/uploads/0306e02.jar
+/home/zack6849/windows/Backups/wolverine/site/uploads/1acad50.jar
+/home/zack6849/windows/Backups/wolverine/site/uploads/4627201.jar
+/home/zack6849/windows/Backups/wolverine/site/uploads/7896b14.jar
+/home/zack6849/windows/Backups/wolverine/site/uploads/8511bc3.jar
+/home/zack6849/windows/Backups/wolverine/site/uploads/9652417.jar
+/home/zack6849/windows/Backups/wolverine/site/uploads/Alphabotv2-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/wolverine/site/uploads/BukkitSandbox.jar
+/home/zack6849/windows/Backups/wolverine/site/uploads/IRC-Bridgebot-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/wolverine/site/uploads/IRC-Bridgebot.jar
+/home/zack6849/windows/Backups/wolverine/site/uploads/ThreadDownloaderGUI.jar
+/home/zack6849/windows/Backups/wolverine/site/uploads/craftbukkit-0.0.1-20111013.124004-13.jar
+/home/zack6849/windows/Backups/wolverine/site/uploads/craftbukkit-0.0.1-SNAPSHOT.1060.jar
+/home/zack6849/windows/Backups/wolverine/site/uploads/e1365f3.jar
+/home/zack6849/windows/Backups/wolverine/site/uploads/eb261b6.jar
+/home/zack6849/windows/Backups/wolverine/site/uploads/ebde4b6.jar
+/home/zack6849/windows/Backups/wolverine/site/uploads/f07fec1.jar
+/home/zack6849/windows/Backups/wolverine/site/uploads/f433103.jar
+/home/zack6849/windows/Backups/wolverine/site/uploads/kicktemplate-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/wolverine/site/uploads/threaddownloader-cli.jar
+/home/zack6849/windows/Backups/wolverine/site/uploads/threaddownloader.jar
+/home/zack6849/windows/Backups/yet another windows backup/$Recycle.Bin/S-1-5-21-3994374937-3197354641-949493952-1001/$ISGLFK3.jar
+/home/zack6849/windows/Backups/yet another windows backup/$Recycle.Bin/S-1-5-21-3994374937-3197354641-949493952-1001/$RSGLFK3.jar
+/home/zack6849/windows/Backups/yet another windows backup/Desktop/apache-tomee-plus-1.7.1/bin/bootstrap.jar
+/home/zack6849/windows/Backups/yet another windows backup/Desktop/apache-tomee-plus-1.7.1/bin/commons-daemon.jar
+/home/zack6849/windows/Backups/yet another windows backup/Desktop/apache-tomee-plus-1.7.1/endorsed/annotation-api.jar
+/home/zack6849/windows/Backups/yet another windows backup/Desktop/apache-tomee-plus-1.7.1/endorsed/jaxb-api.jar
+/home/zack6849/windows/Backups/yet another windows backup/Desktop/bukkit/craftbukkit-1.7.9-R0.2.jar
+/home/zack6849/windows/Backups/yet another windows backup/Desktop/bukkit/plugins/obsidianbreaker-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Desktop/files/virtualserver_1/channel_46/Aerotech.jar
+/home/zack6849/windows/Backups/yet another windows backup/Desktop/files/virtualserver_1/channel_46/Jabba_1.1.3_1.7.2.jar
+/home/zack6849/windows/Backups/yet another windows backup/Desktop/files/virtualserver_1/channel_46/ThaumicTinkerer-alpha-2.3-101.jar
+/home/zack6849/windows/Backups/yet another windows backup/Desktop/files/virtualserver_1/channel_46/chisel.jar
+/home/zack6849/windows/Backups/yet another windows backup/Desktop/files/virtualserver_1/channel_46/forge-1.7.2-10.12.1.1082-installer.jar
+/home/zack6849/windows/Backups/yet another windows backup/Desktop/files/virtualserver_1/channel_46/IC2Reactor Tool/ICReactorPlannerV3.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/ThreadDownloaderGUI.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/threaddownloader-cli.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/IdeaProjects/SuperLogger/target/SuperLogger-v1.4.9.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/IdeaProjects/alphabot/target/AlphabotV2.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/IdeaProjects/alphabot/target/original-AlphabotV2.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/IdeaProjects/cookiebot/target/CookieBot.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/IdeaProjects/cookiebot/target/original-CookieBot.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/IdeaProjects/old/IRC-BRIDGEBOT/target/IRC-Bridgebot.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/IdeaProjects/old/IRC-BRIDGEBOT/target/original-IRC-Bridgebot.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/IdeaProjects/old/ROOT/out/artifacts/ROOT_war_exploded/WEB-INF/jtidy-r8-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/IdeaProjects/old/ROOT/web/WEB-INF/jtidy-r8-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/IdeaProjects/old/ThreadDownloaderGUI/target/ThreadDownloaderGUI.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/IdeaProjects/old/ThreadDownloaderGUI/target/original-ThreadDownloaderGUI.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/IdeaProjects/old/kicktemplate/target/kicktemplate-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/IdeaProjects/old/notoriousdev-spigot/NDHub/target/original-NDHub.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/IdeaProjects/old/skypedumper/target/original-skypelogdumper-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/IdeaProjects/old/skypedumper/target/skypelogdumper-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/IdeaProjects/old/twitterbot/target/TwitterBot-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/IdeaProjects/old/twitterbot/target/original-TwitterBot-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/Alphabot/dist/alphabot.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/Alphabot/target/Alphabot-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/Alphabot/target/original-Alphabot-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/Alphabotv2/target/Alphabotv2-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/Alphabotv2/target/original-Alphabotv2-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/BreadDownloader/target/BreadDownloader-1.0-SNAPSHOT-shaded.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/BreadDownloader/target/BreadDownloader-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/BreadDownloader/target/original-BreadDownloader-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/CookieBotv2/target/CookieBot.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/CookieBotv2/target/original-CookieBot.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/DarkBot/Sockets/target/Sockets-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/DarkBot/Sockets1/dist/Sockets1.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/DarkBot/TestBot/build/ant-contrib-1.0b3.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/IrcLog/Dependencies/commons-collections-3.2.1.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/IrcLog/Dependencies/commons-configuration-1.9.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/IrcLog/Dependencies/commons-lang-2.6.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/IrcLog/Dependencies/commons-logging-1.1.1.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/IrcLog/Dependencies/pircbotx-1.8.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/Learnin2database/target/Learnin2database-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/Learnin2database/target/original-Learnin2database-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/MCIRC/MCIRC/bin/pircbotx-1.8.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/MCIRC/MCIRC/src/pircbotx-1.8.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/MCIRC/target/MCIRC-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/MCIRC/target/original-MCIRC-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/Notepad/dist/Notepad.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/SkinScraper/target/SkinScraper-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/SuperLogger/target/SuperLogger-v1.4.9.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/SuperLogger/target/SuperLogger-v1.4.9.jar.gz
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/WebScrapers/dist/WebScrapers.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/cookiebungee/target/CookieBungee-NOTTHISONE.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/cookiebungee/target/CookieBungee.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/irc-dev/bin/commons-collections-3.2.1.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/irc-dev/bin/commons-configuration-1.9-javadoc.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/irc-dev/bin/commons-configuration-1.9-sources.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/irc-dev/bin/commons-configuration-1.9-tests.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/irc-dev/bin/commons-configuration-1.9.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/irc-dev/bin/commons-lang-2.6-javadoc.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/irc-dev/bin/commons-lang-2.6-sources.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/irc-dev/bin/commons-lang-2.6.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/irc-dev/bin/commons-logging-1.1.1.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/irc-dev/bin/commons-logging-adapters-1.1.1.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/irc-dev/bin/commons-logging-api-1.1.1.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/irc-dev/bin/google-ajax-apis.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/irc-dev/bin/gson-1.4.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/irc-dev/bin/jsoup-1.7.2.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/NetBeansProjects/irc-dev/bin/pircbotx-1.8.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/AeroTechPlugin-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/Alphabot.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/CookieBot-1.0.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/SuperLogger-v1.4.9.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/SuperLogger.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/ThreadDownloader-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/breaddownloader-cli.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/bsh-2.0b4.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/cleardrop.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/test1.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/testing.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/plugins/Cleardrop9-23-2012.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/plugins/CustomJoins-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/plugins/EssentialsGroupBridge.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/plugins/EssentialsGroupManager.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/plugins/GriefSheild.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/plugins/MaintenanceMode - Copy.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/plugins/MaintenanceMode.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/plugins/TyChatExtras.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/plugins/ctf.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/plugins/nocaps.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/plugins/opmeh.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/plugins/tychatsg.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/plugins/worldgreeter.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/random shit/SuperLogger.jar
+/home/zack6849/windows/Backups/yet another windows backup/Dropbox/public/random shit/alphabot.jar
+/home/zack6849/windows/Backups/yet another windows backup/test/servers/spigot.jar
+/home/zack6849/windows/Backups/yet another windows backup/test/servers/plugins/Essentials.jar
+/home/zack6849/windows/Backups/yet another windows backup/test/servers/plugins/EssentialsAntiBuild.jar
+/home/zack6849/windows/Backups/yet another windows backup/test/servers/plugins/EssentialsChat.jar
+/home/zack6849/windows/Backups/yet another windows backup/test/servers/plugins/EssentialsProtect.jar
+/home/zack6849/windows/Backups/yet another windows backup/test/servers/plugins/EssentialsSpawn.jar
+/home/zack6849/windows/Backups/yet another windows backup/test/servers/plugins/Minigame.jar
+/home/zack6849/windows/Backups/yet another windows backup/test/servers/plugins/SuperLogger-v1.4.9.jar
+/home/zack6849/windows/Backups/yet another windows backup/test/servers/plugins/WorldEdit.jar
+/home/zack6849/windows/Backups/yet another windows backup/xampp/tomcat/bin/bootstrap.jar
+/home/zack6849/windows/Backups/yet another windows backup/xampp/tomcat/bin/commons-daemon.jar
+/home/zack6849/windows/Program Files/Apache Maven/boot/plexus-classworlds-2.5.2.jar
+/home/zack6849/windows/Program Files (x86)/Minecraft/game/launcher.jar
+/home/zack6849/windows/Users/Zack/.eclipse/com.oracle.jmc_5.5.0_811176361_win32_win32_x86_64/configuration/org.eclipse.osgi/223/data/-1721987263/content.jar
+/home/zack6849/windows/Users/Zack/.eclipse/com.oracle.jmc_5.5.0_811176361_win32_win32_x86_64/configuration/org.eclipse.osgi/250/data/listener_1925729951/artifacts.jar
+/home/zack6849/windows/Users/Zack/.eclipse/com.oracle.jmc_5.5.0_811176361_win32_win32_x86_64/configuration/org.eclipse.osgi/250/data/listener_1925729951/content.jar
+/home/zack6849/windows/Users/Zack/Desktop/apache-tomee-plus-1.7.1/bin/bootstrap.jar
+/home/zack6849/windows/Users/Zack/Desktop/apache-tomee-plus-1.7.1/bin/commons-daemon.jar
+/home/zack6849/windows/Users/Zack/Desktop/apache-tomee-plus-1.7.1/endorsed/annotation-api.jar
+/home/zack6849/windows/Users/Zack/Desktop/apache-tomee-plus-1.7.1/endorsed/jaxb-api.jar
+/home/zack6849/windows/Users/Zack/Desktop/server/craftbukkit-1.8.jar
+/home/zack6849/windows/Users/Zack/Desktop/server/spigot-1.8.jar
+/home/zack6849/windows/Users/Zack/Desktop/server/plugins/Essentials-2.x-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Desktop/server/plugins/EssentialsAntiBuild-2.x-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Desktop/server/plugins/EssentialsChat-2.x-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Desktop/server/plugins/EssentialsGeoIP-2.x-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Desktop/server/plugins/EssentialsProtect-2.x-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Desktop/server/plugins/EssentialsSpawn-2.x-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Desktop/server/plugins/Minigame.jar
+/home/zack6849/windows/Users/Zack/Desktop/server/plugins/worldedit-bukkit-6.0.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools.jar
+/home/zack6849/windows/Users/Zack/Downloads/Votifier.jar
+/home/zack6849/windows/Users/Zack/Downloads/craftbukkit-1.8.jar
+/home/zack6849/windows/Users/Zack/Downloads/jd-gui-1.0.0-RC3.jar
+/home/zack6849/windows/Users/Zack/Downloads/original-EssentialsGeoIP-2.x-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Downloads/original-EssentialsXMPP-2.x-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Downloads/spigot-1.8.jar
+/home/zack6849/windows/Users/Zack/Downloads/spigot.jar
+/home/zack6849/windows/Users/Zack/Downloads/srldetect-6.1.3.0.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildData/bin/SpecialSource-2.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildData/bin/SpecialSource.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildData/bin/fernflower.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/BuildTools.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/craftbukkit-1.8.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/spigot-1.8.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/BuildData/bin/SpecialSource-2.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/BuildData/bin/SpecialSource.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/BuildData/bin/fernflower.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/Bukkit/target/bukkit-1.8-R0.1-SNAPSHOT-shaded.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/Bukkit/target/bukkit-1.8-R0.1-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/CraftBukkit/target/craftbukkit-1.8-R0.1-SNAPSHOT-remapped.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/CraftBukkit/target/craftbukkit-1.8-R0.1-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/CraftBukkit/target/original-craftbukkit-1.8-R0.1-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/Spigot/Spigot-API/target/spigot-api-1.8-R0.1-SNAPSHOT-shaded.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/Spigot/Spigot-API/target/spigot-api-1.8-R0.1-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/Spigot/Spigot-Server/target/original-spigot-1.8-R0.1-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/Spigot/Spigot-Server/target/spigot-1.8-R0.1-SNAPSHOT-remapped.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/Spigot/Spigot-Server/target/spigot-1.8-R0.1-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/apache-maven-3.2.3/boot/plexus-classworlds-2.5.1.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/game/launcher.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/server/spigot-1.8.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/server/plugins/colorwheel-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/work/mapped.8eb82bde.jar
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/work/mapped.8eb82bde.jar-cl
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/work/mapped.8eb82bde.jar-m
+/home/zack6849/windows/Users/Zack/Downloads/BuildTools/work/minecraft_server.1.8.jar
+/home/zack6849/windows/Users/Zack/Downloads/Bukkit/target/bukkit-1.8-R0.1-SNAPSHOT-shaded.jar
+/home/zack6849/windows/Users/Zack/Downloads/Bukkit/target/bukkit-1.8-R0.1-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Downloads/CraftBukkit/target/craftbukkit-1.8-R0.1-SNAPSHOT-remapped.jar
+/home/zack6849/windows/Users/Zack/Downloads/CraftBukkit/target/craftbukkit-1.8-R0.1-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Downloads/CraftBukkit/target/original-craftbukkit-1.8-R0.1-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Downloads/Spigot/Spigot-API/target/spigot-api-1.8-R0.1-SNAPSHOT-shaded.jar
+/home/zack6849/windows/Users/Zack/Downloads/Spigot/Spigot-API/target/spigot-api-1.8-R0.1-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Downloads/Spigot/Spigot-Server/target/original-spigot-1.8-R0.1-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Downloads/Spigot/Spigot-Server/target/spigot-1.8-R0.1-SNAPSHOT-remapped.jar
+/home/zack6849/windows/Users/Zack/Downloads/Spigot/Spigot-Server/target/spigot-1.8-R0.1-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Downloads/apache-maven-3.2.3/boot/plexus-classworlds-2.5.1.jar
+/home/zack6849/windows/Users/Zack/Downloads/game/launcher.jar
+/home/zack6849/windows/Users/Zack/Downloads/work/mapped.8eb82bde.jar
+/home/zack6849/windows/Users/Zack/Downloads/work/mapped.8eb82bde.jar-cl
+/home/zack6849/windows/Users/Zack/Downloads/work/mapped.8eb82bde.jar-m
+/home/zack6849/windows/Users/Zack/Downloads/work/minecraft_server.1.8.jar
+/home/zack6849/windows/Users/Zack/Dropbox/ThreadDownloaderGUI.jar
+/home/zack6849/windows/Users/Zack/Dropbox/threaddownloader-cli.jar
+/home/zack6849/windows/Users/Zack/Dropbox/IdeaProjects/SuperLogger/target/SuperLogger-v1.4.9.jar
+/home/zack6849/windows/Users/Zack/Dropbox/IdeaProjects/SuperLogger/target/SuperLogger-v1.6.jar
+/home/zack6849/windows/Users/Zack/Dropbox/IdeaProjects/SuperLogger/target/original-SuperLogger-v1.6.jar
+/home/zack6849/windows/Users/Zack/Dropbox/IdeaProjects/SuperLogger.old/target/SuperLogger-v1.4.9.jar
+/home/zack6849/windows/Users/Zack/Dropbox/IdeaProjects/alphabot/target/AlphabotV2.jar
+/home/zack6849/windows/Users/Zack/Dropbox/IdeaProjects/alphabot/target/original-AlphabotV2.jar
+/home/zack6849/windows/Users/Zack/Dropbox/IdeaProjects/cookiebot/target/CookieBot.jar
+/home/zack6849/windows/Users/Zack/Dropbox/IdeaProjects/cookiebot/target/original-CookieBot.jar
+/home/zack6849/windows/Users/Zack/Dropbox/IdeaProjects/old/IRC-BRIDGEBOT/target/IRC-Bridgebot.jar
+/home/zack6849/windows/Users/Zack/Dropbox/IdeaProjects/old/IRC-BRIDGEBOT/target/original-IRC-Bridgebot.jar
+/home/zack6849/windows/Users/Zack/Dropbox/IdeaProjects/old/ROOT/out/artifacts/ROOT_war_exploded/WEB-INF/jtidy-r8-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Dropbox/IdeaProjects/old/ROOT/web/WEB-INF/jtidy-r8-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Dropbox/IdeaProjects/old/ThreadDownloaderGUI/target/ThreadDownloaderGUI.jar
+/home/zack6849/windows/Users/Zack/Dropbox/IdeaProjects/old/ThreadDownloaderGUI/target/original-ThreadDownloaderGUI.jar
+/home/zack6849/windows/Users/Zack/Dropbox/IdeaProjects/old/kicktemplate/target/kicktemplate-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Dropbox/IdeaProjects/old/notoriousdev-spigot/NDHub/target/original-NDHub.jar
+/home/zack6849/windows/Users/Zack/Dropbox/IdeaProjects/old/skypedumper/target/original-skypelogdumper-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Dropbox/IdeaProjects/old/skypedumper/target/skypelogdumper-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Dropbox/IdeaProjects/old/twitterbot/target/TwitterBot-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Dropbox/IdeaProjects/old/twitterbot/target/original-TwitterBot-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Dropbox/code/ThreadDownloaderProject/ThreadDownloader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar
+/home/zack6849/windows/Users/Zack/Dropbox/code/ThreadDownloaderProject/ThreadDownloader/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar
+/home/zack6849/windows/Users/Zack/Dropbox/matt/mcp/jars/minecraft_server.jar
+/home/zack6849/windows/Users/Zack/Dropbox/matt/mcp/jars/minecraft_server.jar.backup
+/home/zack6849/windows/Users/Zack/Dropbox/matt/mcp/jars/bin/jinput.jar
+/home/zack6849/windows/Users/Zack/Dropbox/matt/mcp/jars/bin/lwjgl.jar
+/home/zack6849/windows/Users/Zack/Dropbox/matt/mcp/jars/bin/lwjgl_util.jar
+/home/zack6849/windows/Users/Zack/Dropbox/matt/mcp/jars/bin/minecraft.jar
+/home/zack6849/windows/Users/Zack/Dropbox/matt/mcp/jars/bin/minecraft.jar.backup
+/home/zack6849/windows/Users/Zack/Dropbox/matt/mcp/jars/bin/natives/linux_natives.jar
+/home/zack6849/windows/Users/Zack/Dropbox/matt/mcp/jars/bin/natives/macosx_natives.jar
+/home/zack6849/windows/Users/Zack/Dropbox/matt/mcp/jars/bin/natives/windows_natives.jar
+/home/zack6849/windows/Users/Zack/Dropbox/matt/mcp/runtime/bin/fernflower.jar
+/home/zack6849/windows/Users/Zack/Dropbox/matt/mcp/runtime/bin/mcinjector.jar
+/home/zack6849/windows/Users/Zack/Dropbox/matt/mcp/runtime/bin/retroguard.jar
+/home/zack6849/windows/Users/Zack/Dropbox/matt/mcp/temp/minecraft_exc.jar
+/home/zack6849/windows/Users/Zack/Dropbox/matt/mcp/temp/minecraft_rg.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/AeroTechPlugin-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/Alphabot.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/CookieBot-1.0.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/SuperLogger-v1.4.9.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/SuperLogger.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/ThreadDownloader-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/breaddownloader-cli.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/bsh-2.0b4.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/cleardrop.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/test1.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/testing.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/plugins/Cleardrop9-23-2012.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/plugins/CustomJoins-1.0-SNAPSHOT.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/plugins/EssentialsGroupBridge.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/plugins/EssentialsGroupManager.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/plugins/GriefSheild.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/plugins/MaintenanceMode - Copy.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/plugins/MaintenanceMode.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/plugins/TyChatExtras.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/plugins/ctf.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/plugins/nocaps.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/plugins/opmeh.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/plugins/tychatsg.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/plugins/worldgreeter.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/random shit/SuperLogger.jar
+/home/zack6849/windows/Users/Zack/Dropbox/public/random shit/alphabot.jar
+/home/zack6849/windows/ftb/versions/1.6.4/1.6.4.jar
+/home/zack6849/windows/ftb/versions/1.7.10/1.7.10.jar
+/home/zack6849/windows/xampp/tomcat/bin/bootstrap.jar
+/home/zack6849/windows/xampp/tomcat/bin/commons-daemon.jar
+/opt/android-sdk/build-tools/22.0.1/jack.jar
+/opt/android-sdk/build-tools/22.0.1/jill.jar
+/opt/android-sdk/tools/support/annotations.jar
+/opt/maven/boot/plexus-classworlds-2.5.2.jar
+/usr/share/icedtea-web/netx.jar
+/usr/share/icedtea-web/plugin.jar
+/usr/share/java/commons-daemon-1.0.15.jar
+/usr/share/java/commons-daemon.jar
+/usr/share/java/ecj.jar
+/usr/share/java/eclipse-ecj-4.4.jar
+/usr/share/java/eclipse-ecj.jar
+/usr/share/java/swt-4.4.jar
+/usr/share/java/swt.jar
+/usr/share/java/tomcat8/annotations-api.jar
+/usr/share/java/tomcat8/catalina-ant.jar
+/usr/share/java/tomcat8/catalina-ha.jar
+/usr/share/java/tomcat8/catalina-storeconfig.jar
+/usr/share/java/tomcat8/catalina-tribes.jar
+/usr/share/java/tomcat8/catalina.jar
+/usr/share/java/tomcat8/ecj.jar
+/usr/share/java/tomcat8/el-api.jar
+/usr/share/java/tomcat8/jasper-el.jar
+/usr/share/java/tomcat8/jasper.jar
+/usr/share/java/tomcat8/jsp-api.jar
+/usr/share/java/tomcat8/servlet-api.jar
+/usr/share/java/tomcat8/sqlite-jdbc-3.8.7.jar
+/usr/share/java/tomcat8/websocket-api.jar
+/usr/share/rest-client/restclient-ui-jar-with-dependencies.jar
+/usr/share/tomcat8/bin/bootstrap.jar
+/usr/share/tomcat8/bin/commons-daemon.jar

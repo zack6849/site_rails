@@ -1,0 +1,59 @@
+<style>
+    input {
+        margin-bottom: 1em;
+    }
+
+    h1 {
+        margin-bottom: 20px;
+        text-align: center;
+        margin-top: 0;
+    }
+
+    input:not([type=submit]) {
+        width: 100%;
+    }
+
+    input[type=submit] {
+        margin-top: 1em;
+    }
+</style>
+<div class="container-fluid" id="main">
+    <div id="navbar">
+        <nav class="navbar navbar-default">
+            <div class="container">
+                <%= render 'shared/header' %>
+            </div>
+        </nav>
+    </div>
+    <div class="container" id="content">
+        <div class="row">
+            <div class="col-sm-3 col-sm-offset-4">
+                <div class="well">
+                    <h1>Sign In</h1>
+                    <hr>
+                    <div class="center-block form-group">
+                        <% if @error %>
+                            <div class="alert alert-danger alert-dismissable" role="alert">
+                                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span></button>
+                                <strong>Invalid Username or Password!</strong>
+                            </div>
+                        <% end %>
+                        <%= form_tag '/login' do %>
+                            <%= label_tag(:name, "Username") %>
+                            <br>
+                            <%= text_field_tag :name %>
+                            <br>
+                            <%= label_tag(:password, "Password") %>
+                            <br>
+                            <%= password_field_tag :password %>
+                            <br>
+                            <%= submit_tag 'Login', :class => "btn btn-success" %>
+                        <% end %>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

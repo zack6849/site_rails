@@ -1,0 +1,56 @@
+<style>
+    input {
+        margin-bottom: 1em;
+    }
+
+    h1 {
+        margin-bottom: 20px;
+        text-align: center;
+        margin-top: 0;
+    }
+
+    input[type=submit] {
+        margin-top: 1em;
+    }
+</style>
+<div class="container-fluid" id="main">
+    <div id="navbar">
+        <nav class="navbar navbar-default">
+            <div class="container">
+                <%= render 'shared/header' %>
+            </div>
+        </nav>
+    </div>
+    <div class="container" id="content">
+        <div class="row">
+            <div class="col-sm-3 col-sm-offset-4">
+                <div class="well">
+                    <h1>Sign Up</h1>
+                    <hr>
+                    <div class="center-block">
+                        <%= form_for :user, url: '/users' do |f| %>
+                            <%= label_tag(:name, "Username") %>
+                            <br>
+                            <%= f.text_field :name %>
+                            <br>
+                            <%= label_tag(:email, "Email") %>
+                            <br>
+                            <%= f.text_field :email %>
+                            <br>
+                            <%= label_tag(:password, "Password") %>
+                            <br>
+                            <%= f.password_field :password %>
+                            <br>
+                            <%= label_tag(:password_confirmation, "Password Confirmation") %>
+                            <br>
+                            <%= f.password_field :password_confirmation %>
+                            <br>
+                            <%= f.submit :class => "btn btn-success", :value => 'Sign Up' %>
+                        <% end %>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

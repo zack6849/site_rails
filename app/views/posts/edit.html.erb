@@ -1,0 +1,29 @@
+<style>
+    input[type=text] {
+        width: 100%;
+    }
+
+    textarea {
+        width: 100% !important;
+        height: 15em;
+    }
+
+    .well h1 {
+        margin-top: 0;
+    }
+</style>
+<div class="container-fluid" id="main">
+    <div id="navbar">
+        <nav class="navbar navbar-default">
+            <div class="container">
+                <%= render 'shared/header' %>
+            </div>
+        </nav>
+    </div>
+    <div class="container" id="content">
+        <div class="well well-lg">
+            <h1>Editing post</h1>
+            <%= render 'form' %>
+        </div>
+    </div>
+</div>
